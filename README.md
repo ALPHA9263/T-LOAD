@@ -1,13 +1,14 @@
+
 <p align="center">
 <a href="https://bit.ly/3jPqXEB"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://bit.ly/3jPqXEB"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-Tload-green.svg"></a>
+<a href="https://bit.ly/3jPqXEB"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-t.modify-green.svg"></a>
 <a href="https://bit.ly/3jPqXEB"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
 <a href="https://bit.ly/3jPqXEB"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
 <p align="center">
-<a href="https://bit.ly/3jPqXEB"><img title="T-load" src="https://user-images.githubusercontent.com/49580304/96587896-c6d2d680-1297-11eb-9fbf-c7de278d8aac.jpg"></a>
+<a href="https://bit.ly/3jPqXEB"><img title="t.modify" src=https://drive.google.com/file/d/11AVhh3X-Awq3jtlXSJnw45bUN5LQCf0Z/view?usp=drivesdk"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Alpha-hackers"><img title="Github" src="https://img.shields.io/badge/Alpha-hackers-brightgreen?style=for-the-badge&logo=github"></a>
@@ -15,16 +16,16 @@
 </p>
 <p align="center">
 <a href="https://github.com/Alpha-hackers"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
-<a href="https://github.com/Alpha-hackers"><img title="Followers" src="https://img.shields.io/github/followers/noob-hackers?color=blue&style=flat-square"></a>
-<a href="https://github.com/Alpha-hackers"><img title="Stars" src="https://img.shields.io/github/stars/Alpha-hackers/T-LOAD?color=red&style=flat-square"></a>
-<a href="https://github.com/Alpha-hackers"><img title="Forks" src="https://img.shields.io/github/forks/Alpha-hackers/T-LOAD?color=red&style=flat-square"></a>
-<a href="https://github.com/Alpha-hackers"><img title="Watching" src="https://img.shields.io/github/watchers/Alpha-hackers/T-LOAD?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Alpha-hackers"><img title="Followers" src="https://img.shields.io/github/followers/Alpha-hackers?color=blue&style=flat-square"></a>
+<a href="https://github.com/Alpha-hackers"><img title="Stars" src="https://img.shields.io/github/stars/Alpha-hackers/t.modify?color=red&style=flat-square"></a>
+<a href="https://github.com/Alpha-hackers"><img title="Forks" src="https://img.shields.io/github/forks/Alpha-hackers/t.modify?color=red&style=flat-square"></a>
+<a href="https://github.com/Alpha-hackers"><img title="Watching" src="https://img.shields.io/github/watchers/Alpha-hackers/t.modify?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/Alpha-hackers"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 </p>
 
 ## ABOUT TOOL :
 
-T-load is a bash based script which modifies and changes your terminal from boring to awesome in just oneclick without any issue and without root. This tool works on both rooted Android device and Non-rooted Android device.
+k-Alpha is a bash based script which modifies and changes your terminal from boring to awesome in just oneclick without any issue and without root. This tool works on both rooted Android device and Non-rooted Android device.
 
 <p align="center"><a href="https://rebrand.ly/tech.org112"><img title="Alpha Hackers" src="https://user-images.githubusercontent.com/49580304/117566254-31801e00-b0d3-11eb-860d-5601b1adccb8.jpg"></a>
 </p>
@@ -55,12 +56,12 @@ T-load is a bash based script which modifies and changes your terminal from bori
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* ` git clone https://github.com/Alpha-hackers/T-LOAD`
+* ` git clone https://github.com/Alpha-hackers/t.modify`
 * `cd $HOME`
 * `ls`
-* `cd T-LOAD`
+* `cd k-Alpha`
 * `ls`
-* `bash t-load.sh`
+* `bash k-Alpha.sh`
 ```
 [+]--Now make sue that you internet connection is on and after that the installation starts automatically
 [+]--After the installation succesfully completes you will see a THANKS text on screen after that a new text appears
@@ -71,7 +72,7 @@ T-load is a bash based script which modifies and changes your terminal from bori
 
 `To revert/to get back into normal termux mode use this commands`
 
-* `cd T-LOAD`
+* `cd K-Alpha`
 * `ls`
 * `bash rvt.sh`
 
