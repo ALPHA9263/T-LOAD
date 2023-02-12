@@ -56,12 +56,12 @@ k-Alpha is a bash based script which modifies and changes your terminal from bor
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* ` git clone https://github.com/Alpha-hackers/t.modify`
+* ` git clone https://github.com/Alpha-hackers/T-LOAD`
 * `cd $HOME`
 * `ls`
-* `cd k-Alpha`
+* `cd T-LOAD`
 * `ls`
-* `bash k-Alpha.sh`
+* `bash T-load.sh`
 ```
 [+]--Now make sue that you internet connection is on and after that the installation starts automatically
 [+]--After the installation succesfully completes you will see a THANKS text on screen after that a new text appears
@@ -106,10 +106,7 @@ __TYPE NAME__ :
 [![Instagram](https://img.shields.io/badge/DISCUSSION-FORUM-blue?style=for-the-badge&logo=forum)](https://instagram.com/_________killer____lover______?igshid=ZDdkNTZiNTM=)
 <a href="https://rebrand.ly/tech.org112"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Alpha Hackers-red?style=for-the-badge&logo=Youtube"></a>
 
-## BUY ME A COFFEE :
-
-<p align="center">
-<a href="https://rebrand.ly/BuyCoffee"><img title="Alpha Hackers" src="https://camo.githubusercontent.com/ae8af018f80649f3d379eb23dbf59acceaffa24e/68747470733a2f2f6c69626572617061792e636f6d2f6173736574732f776964676574732f646f6e6174652e737667"></a>
+#
 </p>
 
 ## WARNING : 
